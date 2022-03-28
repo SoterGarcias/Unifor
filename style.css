@@ -1,0 +1,47 @@
+.menu{
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+.cab{
+    display: flex;
+    justify-content: space-between;
+}
+
+.foto{
+    text-align: center;
+}
+
+.neg{
+    font-weight: bold;
+}
+
+ul{
+    float: right;
+    margin-right: 25px;
+}
+
+.texFinal{
+    text-align: center;
+}
+
+.lin{
+    width: 100%;
+    height: 5px;
+    background-color: #5B7DB1;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    max-width: 1000px;
+    font-family: gotham, arial, helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0;
+    margin: auto auto;
+}
+
+
